@@ -24,6 +24,3 @@ script:
   - npm test
   - ./etc/travis.py
 
-notifications:
-
-webhooks: [REDACTED_TEAMS_WEBHOOK]
