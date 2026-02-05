@@ -161,7 +161,7 @@
             "type": "string"
         },
         "autoscaleVmSku": {
-            "defaultValue": "Standard_D2as_v5",
+            "defaultValue": "Standard_B2s_v2",
             "metadata": {
                 "description": "VM size for autoscaled web VMs"
             },
